@@ -6,7 +6,6 @@ This project is based in the Tensorflow Playground, but for ScikitLearn models
   <img src="imgs/example_streamlit.PNG" />
 </p>
 
----
 ## Webapp
 To run this webapp locally you must (python 3.7):
 
