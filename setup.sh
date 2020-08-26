@@ -1,3 +1,4 @@
+mkdir -p ~/.streamlit/
 echo "\
 [general]\n\
 email = \"rodriguessilvabruno@outlook.com\"\n\
@@ -7,3 +8,4 @@ echo "\
 headless = true\n\
 enableCORS=false\n\
 port = $PORT\n\
+"
