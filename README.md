@@ -3,7 +3,7 @@
 This project is based in the Tensorflow Playground, but for ScikitLearn models
 
 <p align="center">
-  <img src="imgs/webapp_streamlit.PNG" />
+  <img src="imgs/example_streamlit.PNG" />
 </p>
 
 To run this webapp locally you must (python 3.7):
