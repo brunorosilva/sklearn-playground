@@ -1,4 +1,3 @@
-mkdir -p ~/.streamlit/
 echo "\
 [general]\n\
 email = \"rodriguessilvabruno@outlook.com\"\n\
