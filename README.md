@@ -1,13 +1,11 @@
 <p align="center">
   <img src="imgs/sklplayground.gif" width=30%/>
 </p>
-
-
-# Scikit Learn Playground
+An interactive playground for scikit-learn machine learning models
 
 Live Demo: https://sklearn-playground.herokuapp.com/
 
-This project is based in the Tensorflow Playground, but for ScikitLearn models
+This project is inspired by the Tensorflow Playground.
 
 <p align="center">
   <img src="imgs/example_streamlit.PNG" />
@@ -16,14 +14,19 @@ This project is based in the Tensorflow Playground, but for ScikitLearn models
 ## Webapp
 To run this webapp locally you must (python 3.7):
 
-1. Download the dependencies:
+1. Clone or download the repo:
 <pre>
-pip install -r requirements.txt
+$ git clone https://github.com/brunorosilva/sklearn-playground.git
 </pre>
 
-2. Execute the app:
+2. Download the dependencies:
 <pre>
-streamlit run classifier_playground.py
+$ pip install -r requirements.txt
 </pre>
 
-3. Access the local host on your command prompt
+3. Execute the app:
+<pre>
+$ streamlit run classifier_playground.py
+</pre>
+
+4. Access the local host on your command prompt
