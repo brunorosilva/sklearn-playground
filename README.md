@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="imgs/sklplayground.gif" />
+  <img src="imgs/sklplayground.gif" width=30px/>
 </p>
 
 
