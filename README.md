@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="imgs/sklplayground.gif" />
+</p>
+
+
 # Scikit Learn Playground
 
 Live Demo: https://sklearn-playground.herokuapp.com/
