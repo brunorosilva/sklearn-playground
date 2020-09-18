@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="imgs/skp_logo.gif" width=30%/>
+  <img src="ok2.gif" width=30%/>
 </p>
 An interactive playground for scikit-learn machine learning models
 
